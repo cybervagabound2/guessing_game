@@ -5,3 +5,4 @@ authors = ["movement <movement21@hi2.in>"]
 edition = "2018"
 
 [dependencies]
+rand = "0.6"
